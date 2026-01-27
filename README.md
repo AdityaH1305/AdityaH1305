@@ -25,9 +25,7 @@
 
 ### ⚙️ Frameworks & Libraries
 - Flask  
-- Bootstrap  
-- Jinja2  
-
+- ReactJS
 ### 🗄️ Databases
 - SQLite  
 - MySQL  
@@ -43,20 +41,20 @@
 ## 📌 Projects
 
 ### 🎮 SteamDB Clone
-- Multi-currency price display (10 currencies including INR & AED)
+- Multi-currency price display 
 - Steam game search and filtering
 - Flask backend with API integration
 
 ---
 
 ### 🎲 Ludex
-Board-game companion web app:
+A personalized Steam game recommendation system:
 
 - Gameplay reference & tracking
 - Player session management
 - Clean interface for tabletop gaming
 
-**Tech:** Python, Flask
+**Tech:** Python
 
 ---
 
