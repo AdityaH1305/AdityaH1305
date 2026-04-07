@@ -93,7 +93,7 @@ Board-game management companion:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityaharikrishnan/adityaharikrishnan/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/AdityaH1305/AdityaH1305/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
