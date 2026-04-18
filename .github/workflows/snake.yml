@@ -14,7 +14,7 @@ jobs:
         with:
           github_user_name: AdityaH1305
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=green&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
