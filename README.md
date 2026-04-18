@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Aditya+Harikrishnan;Software+Developer+%7C+Full+Stack;Building+scalable+and+efficient+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Aditya+Harikrishnan;Software+Developer+%7C+Backend+%26+Full-Stack;Focused+on+scalable+and+efficient+systems" />
 </p>
 
 ---
@@ -8,9 +8,9 @@
 ## 🚀 About Me
 
 💡 3rd Year B.Tech CSE @ IIIT Pune  
-🔧 Backend Developer focused on building scalable and efficient systems  
-🎯 Currently working on **Flask-based web apps & APIs**  
-🧠 Exploring **system design, databases, and full-stack development**  
+🔧 Software Developer with a focus on backend systems and full-stack development  
+🎯 Currently building **Flask-based web applications & APIs**  
+🧠 Exploring **system design, databases, and scalable architectures**  
 
 ⚡ Enjoy analyzing and understanding how systems work internally  
 
@@ -34,50 +34,42 @@
 
 ## 🧠 Featured Projects
 
-### 🎮 LudoScope
+### 🎮 LudoScope  
+🔗 [View Repository](https://github.com/AdityaH1305/LudoScope)
 
-✔ Multi-currency pricing  
-✔ Steam API integration  
-✔ Game search, trends, and comparison tools  
-
----
-
-### 🎲 Ludex (Recommendation System)
-
-💡 Hybrid ML System (CBF + CF)
-
-- TF-IDF + Implicit ALS  
-- 57K+ items, 1.2K users  
-- 📈 +27% Precision@20 improvement  
+- Multi-currency price comparison  
+- Steam API integration for real-time data  
+- Game search, trend analysis, and comparison tools  
+- Modular service-based backend architecture  
 
 ---
 
-### 🎲 Ludex – Live Preview
+### 🎲 Ludex (Recommendation System)  
+🔗 [View Repository](https://github.com/Aditya11835/Ludex)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaH1305/AdityaH1305/main/assets/sign_in.gif" width="45%" />
-  <img src="https://raw.githubusercontent.com/AdityaH1305/AdityaH1305/main/assets/dashboard.gif" width="45%" />
-</p>
-
-<p align="center">
-  <i>Authentication flow (left) and dashboard interaction (right)</i>
-</p>
+- Hybrid ML system (Content-Based + Collaborative Filtering)  
+- TF-IDF embeddings + Implicit ALS model  
+- Dataset: 57K+ items, 1.2K+ users  
+- 📈 +27% Precision@20 vs CBF, +13% vs CF  
+- Published research work  
 
 ---
 
-### 🕵️ Cluedo App
+### 🕵️ Cluedo Tracking App  
+🔗 [View Repository](https://github.com/AdityaH1305/Cluedo-Tracking-App)
 
-✔ Deduction tracking system  
-✔ Local multiplayer logic  
-✔ Suspicion management  
+- Digital deduction assistant for Cluedo  
+- Player suspicion tracking and card logic  
+- Designed for local multiplayer gameplay  
 
 ---
 
-### 🪙 Sheriff of Nottingham
+### 🪙 Sheriff of Nottingham App  
+🔗 [View Repository](https://github.com/AdityaH1305/Sheriff-of-nottingham-app)
 
-✔ Inventory + coin tracking  
-✔ Reduces manual bookkeeping  
-✔ Flask-based system  
+- Inventory and coin tracking system  
+- Goods declaration mechanics  
+- Reduces manual bookkeeping in gameplay  
 
 ---
 
@@ -92,7 +84,7 @@
 ## 🏆 Achievements
 
 🏅 Microsoft Azure Fundamentals  
-📄 Published Research (Ludex)
+📄 Published Research (Ludex Recommendation System)
 
 ---
 
