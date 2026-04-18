@@ -1,6 +1,5 @@
-<!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Aditya+Harikrishnan;Backend+Developer+%7C+Flask+Enthusiast;I+build+systems+that+actually+work" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Aditya+Harikrishnan;Backend+Developer+%7C+Flask+Enthusiast;Building+scalable+and+efficient+systems" />
 </p>
 
 ---
@@ -8,11 +7,11 @@
 ## 🚀 About Me
 
 💡 3rd Year B.Tech CSE @ IIIT Pune  
-🔧 Backend-focused developer who enjoys building **real systems, not just demos**  
+🔧 Backend Developer focused on building scalable and efficient systems  
 🎯 Currently working on **Flask-based web apps & APIs**  
-🧠 Exploring **system design, databases, and scalable architectures**  
+🧠 Exploring **system design, databases, and full-stack development**  
 
-⚡ Fun fact: I break things on purpose just to understand them  
+⚡ Enjoy analyzing and breaking down systems to understand their inner workings  
 
 ---
 
@@ -29,15 +28,6 @@
 
 **Tools**  
 `Git` • `Linux` • `Postman` • `VS Code`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaH1305&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaH1305&theme=tokyonight" />
-</p>
 
 ---
 
@@ -59,7 +49,7 @@
 
 ---
 
-### 🎮 Project Demo (Live UI Previews)
+### 🎮 Project Demo
 
 <p align="center">
   <img src="https://your-gif-link/signin.gif" width="45%" />
@@ -71,14 +61,14 @@
 ### 🕵️ Cluedo App
 ✔ Deduction tracking system  
 ✔ Local multiplayer logic  
-✔ Smart suspicion tracking  
+✔ Suspicion management  
 
 ---
 
 ### 🪙 Sheriff of Nottingham
 ✔ Inventory + coin tracking  
 ✔ Reduces manual bookkeeping  
-✔ Flask-based multiplayer system  
+✔ Flask-based system  
 
 ---
 
@@ -93,17 +83,17 @@
 ## 🏆 Achievements
 
 🏅 Microsoft Azure Fundamentals  
-📄 Published Research (Ludex ML System)
+📄 Published Research (Ludex)
 
 ---
 
 ## 🔗 Connect
 
 💼 GitHub: https://github.com/AdityaH1305  
-🔗 LinkedIn: (add your link here)
+🔗 LinkedIn: https://www.linkedin.com/in/aditya-harikrishnan-3932192a4/
 
 ---
 
 <p align="center">
-  ⭐️ Built with caffeine and curiosity
+  ⭐️ Built with curiosity and precision
 </p>
