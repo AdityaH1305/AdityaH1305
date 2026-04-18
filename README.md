@@ -1,100 +1,109 @@
-# 👋 Hi there, I'm Aditya Harikrishnan
-
-🚀 Aspiring Software Developer | Python & Web Development Enthusiast
-🇮🇳 Based in India
+<!-- 🔥 Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Aditya+Harikrishnan;Backend+Developer+%7C+Flask+Enthusiast;I+build+systems+that+actually+work" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-* 🔭 Currently working on **web applications using Flask**
-* 💻 Interested in **backend development, APIs, and system design**
-* 🌱 Learning **advanced Python, databases, and full-stack development**
-* 🎮 Gamer & board-game enthusiast
-* ⚡ I enjoy breaking things just to understand how they work
+💡 3rd Year B.Tech CSE @ IIIT Pune  
+🔧 Backend-focused developer who enjoys building **real systems, not just demos**  
+🎯 Currently working on **Flask-based web apps & APIs**  
+🧠 Exploring **system design, databases, and scalable architectures**  
+
+⚡ Fun fact: I break things on purpose just to understand them  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**Languages**  
+`Python` • `JavaScript` • `C` • `HTML` • `CSS`
 
-`Python` • `JavaScript` • `HTML5` • `CSS3`
+**Frameworks**  
+`Flask` • `React`
 
-### ⚙️ Frameworks & Libraries
+**Databases**  
+`MySQL` • `SQLite`
 
-`Flask` • `ReactJS`
-
-### 🗄️ Databases
-
-`SQLite` • `MySQL`
-
-### 🔧 Tools
-
-`Git & GitHub` • `VS Code` • `Linux` • `Postman`
+**Tools**  
+`Git` • `Linux` • `Postman` • `VS Code`
 
 ---
 
-## 📌 Projects
-
-### 🎮 SteamDB Clone
-
-* Multi-currency price display
-* Steam game search and filtering
-* Flask backend with API integration
-
----
-
-### 🎲 Ludex
-
-A personalized Steam game recommendation system:
-
-* Gameplay reference & tracking
-* Player session management
-* Clean interface for tabletop gaming
-
-**Tech:** Python
-
----
-
-### 🕵️ Cluedo App
-
-Digital assistant for the Cluedo board game:
-
-* Card tracking and deduction logic
-* Player suspicion management
-* Local multiplayer focused
-
-**Tech:** Python, Flask, SQLite
-
----
-
-### 🪙 Sheriff of Nottingham
-
-Board-game management companion:
-
-* Inventory and coin tracking
-* Goods declaration system
-* Reduces manual bookkeeping
-
-**Tech:** Python, Flask, SQLite
-
----
-
-## 🐍 Contribution Snake
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaH1305/AdityaH1305/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaH1305&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaH1305&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🧠 Featured Projects
 
-* 💼 GitHub: https://github.com/adityaharikrishnan
+### 🎮 SteamDB Clone
+✔ Multi-currency pricing  
+✔ Steam API integration  
+✔ Search & filtering  
+
+---
+
+### 🎲 Ludex (Recommendation System)
+💡 Hybrid ML System (CBF + CF)
+
+- TF-IDF + Implicit ALS  
+- 57K+ items, 1.2K users  
+- 📈 +27% Precision@20 improvement  
+
+---
+
+### 🎮 Project Demo (Live UI Previews)
+
+<p align="center">
+  <img src="https://your-gif-link/signin.gif" width="45%" />
+  <img src="https://your-gif-link/dashboard.gif" width="45%" />
+</p>
+
+---
+
+### 🕵️ Cluedo App
+✔ Deduction tracking system  
+✔ Local multiplayer logic  
+✔ Smart suspicion tracking  
+
+---
+
+### 🪙 Sheriff of Nottingham
+✔ Inventory + coin tracking  
+✔ Reduces manual bookkeeping  
+✔ Flask-based multiplayer system  
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaH1305/AdityaH1305/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏅 Microsoft Azure Fundamentals  
+📄 Published Research (Ludex ML System)
+
+---
+
+## 🔗 Connect
+
+💼 GitHub: https://github.com/AdityaH1305  
+🔗 LinkedIn: (add your link here)
 
 ---
 
 <p align="center">
-  ⭐️ From <b>Aditya Harikrishnan</b>
+  ⭐️ Built with caffeine and curiosity
 </p>
