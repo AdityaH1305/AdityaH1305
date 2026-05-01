@@ -21,7 +21,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: Jonathan-Jesni
+          github_user_name: AdityaH1305
           # Uses the dark palette for the empty squares, a solid black background, and a purple snake
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_bg=black&color_snake=purple
