@@ -55,12 +55,14 @@
 
 ---
 
-### 🕵️ Cluedo Tracking App  
-🔗 [View Repository](https://github.com/AdityaH1305/Cluedo-Tracking-App)
+### 🚑 SynthRescue  
+🔗 [View Repository](https://github.com/AdityaH1305/SynthRescue)
 
-- Digital deduction assistant for Cluedo  
-- Player suspicion tracking and card logic  
-- Designed for local multiplayer gameplay  
+- Real-time emergency response coordination system  
+- Intelligent resource allocation and tracking  
+- Designed for fast decision-making in critical scenarios  
+- Scalable backend architecture with API integration
+- Fallback rule integrated to provide dispatch report in case of Gemini link failure  
 
 ---
 
@@ -69,7 +71,7 @@
 
 - Inventory and coin tracking system  
 - Goods declaration mechanics  
-- Reduces manual bookkeeping in gameplay  
+- Reduces manual bookkeeping in gameplay
 
 ---
 
