@@ -34,8 +34,8 @@
 
 ## 🧠 Featured Projects
 
-### 🎮 LudoScope  
-🔗 [View Repository](https://github.com/AdityaH1305/LudoScope)
+### 🎮 PlayNexus
+🔗 [View Repository](https://github.com/AdityaH1305/PlayNexus)
 
 - Multi-currency price comparison  
 - Steam API integration for real-time data  
