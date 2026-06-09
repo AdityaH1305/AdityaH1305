@@ -84,6 +84,14 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaH1305&show_icons=true&hide=stars,prs,issues&count_private=true&theme=transparent&hide_border=true" />
+</p>
+
+---
+
 ## 🏆 Achievements
 
 🏅 Microsoft Azure Fundamentals  
