@@ -95,7 +95,7 @@
 ## 🏆 Achievements
 
 🏅 Microsoft Azure Fundamentals  
-📄 Published Research (Ludex Recommendation System)
+📄 Wrote a detailed report(LUDEX-recommendation system)
 
 ---
 
