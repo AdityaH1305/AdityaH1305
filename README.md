@@ -73,17 +73,17 @@
 
 <td width="50%">
 
-### 🎮 PlayNexus
+### 🧠 Modified Double U-Net
 
-Steam game discovery platform featuring:
+PyTorch implementation of an enhanced Double U-Net architecture for medical image segmentation.
 
-- Price comparison
-- Steam API integration
-- Analytics
-- Game recommendations
+- Deep Learning
+- Medical Image Segmentation
+- PyTorch
+- Computer Vision
 
 <p>
-<a href="https://github.com/AdityaH1305/PlayNexus">
+<a href="https://github.com/Aditya11835/Modified_DoubleUNet_Implementation">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -94,12 +94,12 @@ Steam game discovery platform featuring:
 
 ### 🎲 Ludex
 
-Hybrid Steam recommendation system using
+Hybrid recommendation system for Steam using
 
 - TF-IDF
 - Implicit ALS
-- Collaborative Filtering
-- Content-Based Filtering
+- Hybrid Recommendation Engine
+- Machine Learning
 
 <p>
 <a href="https://github.com/Aditya11835/Ludex">
@@ -115,17 +115,17 @@ Hybrid Steam recommendation system using
 
 <td>
 
-### 🚑 SynthRescue
+### 🚶 Gait Multi-Modal Fusion
 
-AI-powered disaster analysis platform featuring
+Deep learning framework for gait recognition using multiple modalities and feature fusion.
 
-- Structural damage assessment
-- Emergency response
-- Intelligent resource allocation
-- AI fallback reporting
+- Gait Recognition
+- Multi-Modal Learning
+- Computer Vision
+- Deep Learning
 
 <p>
-<a href="https://github.com/AdityaH1305/SynthRescue">
+<a href="https://github.com/AdityaH1305/Gait-Multi-Modal-Fusion">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -134,16 +134,17 @@ AI-powered disaster analysis platform featuring
 
 <td>
 
-### 🧩 Sheriff of Nottingham
+### 🚑 SynthRescue
 
-Digital companion app for the board game.
+AI-powered disaster analysis platform combining computer vision and AI reasoning.
 
-- Inventory management
-- Coin tracking
-- Gameplay assistance
+- YOLO Detection
+- Gemini AI
+- FastAPI
+- Next.js
 
 <p>
-<a href="https://github.com/AdityaH1305/Sheriff-of-nottingham-app">
+<a href="https://github.com/AdityaH1305/SynthRescue">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
