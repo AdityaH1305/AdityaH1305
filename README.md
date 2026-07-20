@@ -41,52 +41,112 @@
 
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css" />
-</p>
-
-`Python` • `Java` • `JavaScript` • `C` • `HTML` • `CSS`
+<table>
+<tr align="center">
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br><sub><b>Python</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/><br><sub><b>Java</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/><br><sub><b>JavaScript</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/><br><sub><b>C</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/><br><sub><b>HTML</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/><br><sub><b>CSS</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🤖 AI / Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
-</p>
-
-`PyTorch` • `TensorFlow` • `OpenCV` • `Scikit-learn`
+<table>
+<tr align="center">
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55"/><br><sub><b>PyTorch</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/><br><sub><b>TensorFlow</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55"/><br><sub><b>OpenCV</b></sub>
+</td>
+<td width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/><br><sub><b>Scikit-Learn</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
 ### ⚙️ Frameworks
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,react,nextjs" />
-</p>
-
-`Flask` • `FastAPI` • `React` • `Next.js`
+<table>
+<tr align="center">
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"/><br><sub><b>Flask</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55"/><br><sub><b>FastAPI</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/><br><sub><b>React</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/><br><sub><b>Next.js</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-`MySQL` • `SQLite`
+<table>
+<tr align="center">
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/><br><sub><b>MySQL</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55"/><br><sub><b>SQLite</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Tools & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
-</p>
-
-`Git` • `GitHub` • `Linux` • `VS Code` • `Postman` • `Docker`
-
+<table>
+<tr align="center">
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br><sub><b>Git</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/><br><sub><b>GitHub</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/><br><sub><b>Linux</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/><br><sub><b>VS Code</b></sub>
+</td>
+<td width="120">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55"/><br><sub><b>Postman</b></sub>
+</td>
+<td width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/><br><sub><b>Docker</b></sub>
+</td>
+</tr>
+</table>
 ---
 
 # 🚀 Featured Projects
