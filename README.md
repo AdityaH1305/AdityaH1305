@@ -39,29 +39,53 @@
 
 # 💻 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css" />
 </p>
 
-### Frameworks
+`Python` • `Java` • `JavaScript` • `C` • `HTML` • `CSS`
+
+---
+
+### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,react"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 </p>
 
-### Databases
+`PyTorch` • `TensorFlow` • `OpenCV` • `Scikit-learn`
+
+---
+
+### ⚙️ Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,react,nextjs" />
 </p>
 
-### Tools
+`Flask` • `FastAPI` • `React` • `Next.js`
+
+---
+
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,postman"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
+
+`MySQL` • `SQLite`
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
+</p>
+
+`Git` • `GitHub` • `Linux` • `VS Code` • `Postman` • `Docker`
 
 ---
 
