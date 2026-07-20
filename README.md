@@ -271,11 +271,12 @@ AI-powered disaster analysis platform combining computer vision and AI reasoning
 
 🏅 Microsoft Azure Fundamentals (AZ-900)
 
-📄 Published research on Hybrid Recommendation Systems
+🤖 Machine Learning & Recommendation Systems
+
+📄 Documentation on Hybrid Recommendation Systems
 
 🚀 Built multiple full-stack web applications
 
-🤖 Machine Learning & Recommendation Systems
 
 ---
 
