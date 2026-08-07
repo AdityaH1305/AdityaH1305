@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/aditya-harikrishnan-3932192a4/">
+<a href="https://www.linkedin.com/in/aditya-harikrishnan/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -279,8 +279,12 @@ AI-powered disaster analysis platform combining computer vision and AI reasoning
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/aditya-harikrishnan-3932192a4/">
+<a href="https://www.linkedin.com/in/aditya-harikrishnan/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://adityaharikrishnan.vercel.app/">
+<img src="https://skillicons.dev/icons?i=portfolio"/>
 </a>
 
 <a href="mailto:adityaharikrishnan@gmail.com">
