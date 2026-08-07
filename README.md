@@ -279,10 +279,6 @@ AI-powered disaster analysis platform combining computer vision and AI reasoning
 
 <p align="center">
 
-<a href="https://github.com/AdityaH1305">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 <a href="https://www.linkedin.com/in/aditya-harikrishnan-3932192a4/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
