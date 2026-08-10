@@ -284,7 +284,7 @@ AI-powered disaster analysis platform combining computer vision and AI reasoning
 </a>
 
 <a href="https://adityaharikrishnan.vercel.app/">
-<img src="https://skillicons.dev/icons?i=portfolio"/>
+<img src="https://img.icons8.com/fluency/48/domain.png"/>
 </a>
 
 <a href="mailto:adityaharikrishnan@gmail.com">
