@@ -152,18 +152,23 @@ flowchart LR
 
 ## 📊 GitHub Analytics
 
+<!--
+  NOTE: these cards come from github-profile-summary-cards, NOT github-readme-stats.
+  The public github-readme-stats.vercel.app instance has been paused by its owner
+  (503 DEPLOYMENT_PAUSED), which is why those cards render as broken images.
+  If you later self-host github-readme-stats on your own Vercel, swap these for the
+  block at the bottom of this file and replace YOUR-INSTANCE with your deployment URL.
+-->
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaH1305&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=8B949E&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaH1305&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=8B949E&cache_seconds=86400" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaH1305&theme=github_dark" />
 
-<br/><br/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaH1305&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaH1305&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaH1305&theme=github_dark" />
 
-<img src="https://streak-stats.demolab.com?user=AdityaH1305&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaH1305&bg_color=00000000&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true&custom_title=Contribution%20Activity" width="98%" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaH1305&theme=github_dark&utcOffset=5" />
 
 </div>
 
@@ -181,17 +186,23 @@ flowchart LR
 
 <table width="100%">
 <tr>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
-<sub>Azure Fundamentals Certified</sub>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/ISRO-Machine%20Learning%20Intern-FF6D00?style=for-the-badge&logo=rocket&logoColor=white" /><br/>
+<sub><b>Indian Space Research Organisation</b><br/>Applied ML research internship</sub>
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/Microsoft-AZ--900%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
+<sub><b>Azure Fundamentals</b><br/>Cloud infrastructure &amp; services</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
 <img src="https://img.shields.io/badge/Research-Hybrid%20RecSys-9333EA?style=for-the-badge" /><br/>
-<sub>Documentation on hybrid recommendation systems</sub>
+<sub><b>Technical Documentation</b><br/>Hybrid recommendation systems</sub>
 </td>
-<td width="33%" align="center">
+<td align="center">
 <img src="https://img.shields.io/badge/Shipped-Full--Stack%20Apps-00A98F?style=for-the-badge" /><br/>
-<sub>Multiple production-style web applications</sub>
+<sub><b>End-to-End Delivery</b><br/>Multiple production-style applications</sub>
 </td>
 </tr>
 </table>
@@ -214,3 +225,21 @@ flowchart LR
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027" width="100%" />
+
+<!--
+============================================================================
+OPTIONAL: self-hosted github-readme-stats cards.
+
+The public instance is paused, but if you fork + deploy
+https://github.com/anuraghazra/github-readme-stats to your own Vercel account
+(add a GitHub PAT with `repo` + `user` scope as the PAT_1 env variable), you get
+your own quota and these render reliably. Then paste this into the Analytics
+section, replacing YOUR-INSTANCE with your deployment subdomain.
+
+<img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=AdityaH1305&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=8B949E" />
+<img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=AdityaH1305&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=8B949E" />
+
+Sanity check after deploying — this should return valid JSON, not an error:
+https://YOUR-INSTANCE.vercel.app/api/status/pat-info
+============================================================================
+-->
