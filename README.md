@@ -19,26 +19,41 @@
 
 ## 🧠 About
 
-```python
-from dataclasses import dataclass, field
+> I like the part of the stack where research meets production. Training a segmentation network is only half the job — the other half is serving it behind an API that doesn't fall over under load. Most of what I build sits somewhere on that line.
 
-@dataclass
-class Aditya:
-    role:     str  = "Software Developer"
-    edu:      str  = "B.Tech CSE @ IIIT Pune"
-    focus:    list = field(default_factory=lambda: [
-        "Deep Learning & Computer Vision",
-        "Backend architecture & scalable APIs",
-        "Recommender systems",
-    ])
-    stack:    list = field(default_factory=lambda: ["Python", "PyTorch", "FastAPI", "Next.js"])
-    learning: list = field(default_factory=lambda: ["MLOps", "Distributed Systems", "Model Serving at Scale"])
+I'm a Computer Science undergrad at **IIIT Pune** working across deep learning and backend engineering. My projects tend to start with a paper or a dataset and end with something you can actually send a request to.
 
-    def philosophy(self) -> str:
-        return "Ship it, measure it, then make it fast."
-```
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-I like the part of the stack where research meets production — training a segmentation network is only half the job, the other half is serving it behind an API that doesn't fall over. Most of what I build sits somewhere on that line.
+#### 🎓 &nbsp;Education
+**B.Tech, Computer Science**  
+IIIT Pune
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎯 &nbsp;Focus Areas
+Deep learning & computer vision, backend architecture, recommender systems
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+#### 🌱 &nbsp;Currently Exploring
+MLOps, model serving at scale, and distributed systems design
+
+</td>
+<td valign="top">
+
+#### 🧰 &nbsp;Daily Drivers
+`Python` · `PyTorch` · `FastAPI` · `Next.js` · `Docker`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -172,23 +187,31 @@ flowchart LR
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/ISRO-Machine%20Learning%20Intern-FF6D00?style=for-the-badge&logo=rocket&logoColor=white" /><br/>
-<sub><b>Indian Space Research Organisation</b><br/>Applied ML research internship</sub>
-</td>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/Microsoft-AZ--900%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
-<sub><b>Azure Fundamentals</b><br/>Cloud infrastructure &amp; services</sub>
+<td colspan="2" align="center">
+
+<img src="https://img.shields.io/badge/ISRO-Machine%20Learning%20Intern-FF6D00?style=for-the-badge&logo=rocket&logoColor=white" />
+
+**Indian Space Research Organisation**  
+<sub>Applied machine learning research internship</sub>
+
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Research-Hybrid%20RecSys-9333EA?style=for-the-badge" /><br/>
-<sub><b>Technical Documentation</b><br/>Hybrid recommendation systems</sub>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/Microsoft-AZ--900%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+**Azure Fundamentals**  
+<sub>Cloud infrastructure &amp; core services</sub>
+
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/Shipped-Full--Stack%20Apps-00A98F?style=for-the-badge" /><br/>
-<sub><b>End-to-End Delivery</b><br/>Multiple production-style applications</sub>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/Research-Hybrid%20RecSys-9333EA?style=for-the-badge&logo=readthedocs&logoColor=white" />
+
+**Technical Documentation**  
+<sub>Hybrid recommendation systems</sub>
+
 </td>
 </tr>
 </table>
@@ -201,6 +224,7 @@ flowchart LR
 
 <a href="https://www.linkedin.com/in/aditya-harikrishnan/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:adityaharikrishnan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/AdityaH1305"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 <a href="https://adityaharikrishnan.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" /></a>
 
 <br/><br/>
