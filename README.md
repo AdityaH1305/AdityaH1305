@@ -150,25 +150,11 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Analytics
-
-<!--
-  NOTE: these cards come from github-profile-summary-cards, NOT github-readme-stats.
-  The public github-readme-stats.vercel.app instance has been paused by its owner
-  (503 DEPLOYMENT_PAUSED), which is why those cards render as broken images.
-  If you later self-host github-readme-stats on your own Vercel, swap these for the
-  block at the bottom of this file and replace YOUR-INSTANCE with your deployment URL.
--->
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaH1305&theme=github_dark" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaH1305&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaH1305&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaH1305&theme=github_dark" />
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaH1305&theme=github_dark&utcOffset=5" />
+<img src="https://streak-stats.demolab.com?user=AdityaH1305&theme=tokyonight&hide_border=true&border_radius=8" />
 
 </div>
 
@@ -225,21 +211,3 @@ flowchart LR
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027" width="100%" />
-
-<!--
-============================================================================
-OPTIONAL: self-hosted github-readme-stats cards.
-
-The public instance is paused, but if you fork + deploy
-https://github.com/anuraghazra/github-readme-stats to your own Vercel account
-(add a GitHub PAT with `repo` + `user` scope as the PAT_1 env variable), you get
-your own quota and these render reliably. Then paste this into the Analytics
-section, replacing YOUR-INSTANCE with your deployment subdomain.
-
-<img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=AdityaH1305&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=8B949E" />
-<img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=AdityaH1305&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=8B949E" />
-
-Sanity check after deploying — this should return valid JSON, not an error:
-https://YOUR-INSTANCE.vercel.app/api/status/pat-info
-============================================================================
--->
