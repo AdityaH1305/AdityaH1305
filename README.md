@@ -201,7 +201,6 @@ flowchart LR
 
 <a href="https://www.linkedin.com/in/aditya-harikrishnan/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:adityaharikrishnan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://github.com/AdityaH1305"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 <a href="https://adityaharikrishnan.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" /></a>
 
 <br/><br/>
