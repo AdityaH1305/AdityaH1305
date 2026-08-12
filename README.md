@@ -59,26 +59,60 @@ MLOps, model serving at scale, and distributed systems design
 
 ## 🎒 &nbsp;Inventory
 
-<table width="100%">
+#### 💻 &nbsp;Languages
+
+<table>
 <tr>
-<td width="160" valign="middle"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,java,js,c,html,css&theme=dark" /></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="46" alt="Python" /><br/><sub><b>Python</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="46" alt="Java" /><br/><sub><b>Java</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="46" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="46" alt="C" /><br/><sub><b>C</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="46" alt="HTML5" /><br/><sub><b>HTML5</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="46" alt="CSS3" /><br/><sub><b>CSS3</b></sub></td>
 </tr>
+</table>
+
+#### 🧠 &nbsp;ML Toolkit
+
+<table>
 <tr>
-<td valign="middle"><b>ML Toolkit</b></td>
-<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" /></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="46" alt="PyTorch" /><br/><sub><b>PyTorch</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="46" alt="TensorFlow" /><br/><sub><b>TensorFlow</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="46" alt="OpenCV" /><br/><sub><b>OpenCV</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="46" alt="scikit-learn" /><br/><sub><b>scikit-learn</b></sub></td>
 </tr>
+</table>
+
+#### ⚙️ &nbsp;Frameworks
+
+<table>
 <tr>
-<td valign="middle"><b>Frameworks</b></td>
-<td><img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs&theme=dark" /></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="46" alt="FastAPI" /><br/><sub><b>FastAPI</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="46" alt="Flask" /><br/><sub><b>Flask</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="46" alt="React" /><br/><sub><b>React</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="46" alt="Next.js" /><br/><sub><b>Next.js</b></sub></td>
 </tr>
+</table>
+
+#### 🗄️ &nbsp;Data
+
+<table>
 <tr>
-<td valign="middle"><b>Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" /></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="46" alt="MySQL" /><br/><sub><b>MySQL</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="46" alt="SQLite" /><br/><sub><b>SQLite</b></sub></td>
 </tr>
+</table>
+
+#### 🧰 &nbsp;Utility Belt
+
+<table>
 <tr>
-<td valign="middle"><b>Utility Belt</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" /></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="46" alt="Git" /><br/><sub><b>Git</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="46" alt="Docker" /><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="46" alt="Linux" /><br/><sub><b>Linux</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="46" alt="VS Code" /><br/><sub><b>VS Code</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="46" alt="Postman" /><br/><sub><b>Postman</b></sub></td>
 </tr>
 </table>
 
@@ -232,6 +266,7 @@ flowchart LR
 
 <a href="https://www.linkedin.com/in/aditya-harikrishnan/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:adityaharikrishnan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/AdityaH1305"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 <a href="https://adityaharikrishnan.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" /></a>
 
 </div>
