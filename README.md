@@ -1,304 +1,216 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ============================ HEADER ============================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Aditya+Harikrishnan;Software+Developer;Backend+%7C+Full-Stack+%7C+Machine+Learning;Building+Scalable+Applications" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Aditya%20Harikrishnan&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Backend%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Machine%20Learning&descSize=16&descAlignY=53&animation=fadeIn" width="100%" />
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/aditya-harikrishnan/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=620&lines=B.Tech+CSE+%40+IIIT+Pune;Designing+systems%2C+not+just+scripts.;Deep+learning+%7C+APIs+%7C+System+design;Turning+research+papers+into+running+code." />
 
-<a href="https://adityaharikrishnan.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=AdityaH1305&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/aditya-harikrishnan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://adityaharikrishnan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="mailto:adityaharikrishnan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=AdityaH1305&style=flat-square&color=00f7ff&label=Profile+Views" />
 
-</p>
+</div>
 
 ---
 
-# 👋 About Me
+## 🧠 About
 
-🎓 B.Tech Computer Science @ IIIT Pune
+```python
+from dataclasses import dataclass, field
 
-💻 Backend & Full-Stack Developer passionate about building scalable applications.
+@dataclass
+class Aditya:
+    role:     str  = "Software Developer"
+    edu:      str  = "B.Tech CSE @ IIIT Pune"
+    focus:    list = field(default_factory=lambda: [
+        "Deep Learning & Computer Vision",
+        "Backend architecture & scalable APIs",
+        "Recommender systems",
+    ])
+    stack:    list = field(default_factory=lambda: ["Python", "PyTorch", "FastAPI", "Next.js"])
+    learning: list = field(default_factory=lambda: ["MLOps", "Distributed Systems", "Model Serving at Scale"])
 
-🤖 Interested in Machine Learning, AI Systems and System Design.
+    def philosophy(self) -> str:
+        return "Ship it, measure it, then make it fast."
+```
 
-🚀 Currently working on full-stack web applications and intelligent software systems.
+I like the part of the stack where research meets production — training a segmentation network is only half the job, the other half is serving it behind an API that doesn't fall over. Most of what I build sits somewhere on that line.
+
+<br/>
+
+```mermaid
+flowchart LR
+    A["📊 Data"] --> B["🧠 Model<br/>PyTorch · TF · OpenCV"]
+    B --> C["⚙️ Service<br/>FastAPI · Flask"]
+    C --> D["🖥️ Interface<br/>React · Next.js"]
+    C --> E["🗄️ Storage<br/>MySQL · SQLite"]
+    D --> F["🚀 Deploy<br/>Docker · Linux · Git"]
+    E --> F
+```
 
 ---
 
-# 💻 Tech Stack
+## ⚡ Tech Stack
 
-### 💻 Languages
-
-<table>
-<tr align="center">
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br><sub><b>Python</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/><br><sub><b>Java</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/><br><sub><b>JavaScript</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/><br><sub><b>C</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/><br><sub><b>HTML</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/><br><sub><b>CSS</b></sub>
-</td>
+<table width="100%">
+<tr>
+<td width="150" valign="middle"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,java,js,c,html,css&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>ML / AI</b></td>
+<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Frameworks</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Tooling</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" /></td>
 </tr>
 </table>
 
 ---
 
-### 🤖 AI / Machine Learning
+## 🚀 Featured Work
 
-<table>
-<tr align="center">
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55"/><br><sub><b>PyTorch</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/><br><sub><b>TensorFlow</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55"/><br><sub><b>OpenCV</b></sub>
-</td>
-<td width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/><br><sub><b>Scikit-Learn</b></sub>
-</td>
-</tr>
-</table>
-
----
-
-### ⚙️ Frameworks
-
-<table>
-<tr align="center">
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"/><br><sub><b>Flask</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55"/><br><sub><b>FastAPI</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/><br><sub><b>React</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/><br><sub><b>Next.js</b></sub>
-</td>
-</tr>
-</table>
-
----
-
-### 🗄️ Databases
-
-<table>
-<tr align="center">
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/><br><sub><b>MySQL</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55"/><br><sub><b>SQLite</b></sub>
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Tools & Technologies
-
-<table>
-<tr align="center">
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br><sub><b>Git</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/><br><sub><b>GitHub</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/><br><sub><b>Linux</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/><br><sub><b>VS Code</b></sub>
-</td>
-<td width="120">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55"/><br><sub><b>Postman</b></sub>
-</td>
-<td width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/><br><sub><b>Docker</b></sub>
-</td>
-</tr>
-</table>
----
-
-# 🚀 Featured Projects
-
-<table>
-
+<table width="100%">
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Modified Double U-Net
+### 🧬 Modified Double U-Net
 
-PyTorch implementation of an enhanced Double U-Net architecture for medical image segmentation.
+> Enhanced Double U-Net architecture for **medical image segmentation** — encoder–decoder stacking with squeeze-and-excitation and ASPP-style context capture, implemented end-to-end in PyTorch.
 
-- Deep Learning
-- Medical Image Segmentation
-- PyTorch
-- Computer Vision
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Vision-00A98F?style=flat-square" />
+<img src="https://img.shields.io/badge/Segmentation-6E56CF?style=flat-square" />
 
-<p>
-<a href="https://github.com/Aditya11835/Modified_DoubleUNet_Implementation">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+<a href="https://github.com/Aditya11835/Modified_DoubleUNet_Implementation"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎲 Ludex
+### 🎮 Ludex
 
-Hybrid recommendation system for Steam using
+> Hybrid **recommendation engine** for Steam. Content-based TF-IDF signals fused with Implicit ALS collaborative filtering to handle cold-start users without losing personalization.
 
-- TF-IDF
-- Implicit ALS
-- Hybrid Recommendation Engine
-- Machine Learning
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Implicit%20ALS-F7931E?style=flat-square" />
+<img src="https://img.shields.io/badge/TF--IDF-4B8BBE?style=flat-square" />
 
-<p>
-<a href="https://github.com/Aditya11835/Ludex">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+<a href="https://github.com/Aditya11835/Ludex"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 
 </tr>
-
 <tr>
 
-<td>
+<td width="50%" valign="top">
 
 ### 🚶 Gait Multi-Modal Fusion
 
-Deep learning framework for gait recognition using multiple modalities and feature fusion.
+> Deep learning framework for **gait recognition** across multiple modalities, with feature-level fusion to stay robust where any single modality degrades.
 
-- Gait Recognition
-- Multi-Modal Learning
-- Computer Vision
-- Deep Learning
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Modal-9333EA?style=flat-square" />
+<img src="https://img.shields.io/badge/Biometrics-0EA5E9?style=flat-square" />
 
-<p>
-<a href="https://github.com/AdityaH1305/Gait-Multi-Modal-Fusion">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+<a href="https://github.com/AdityaH1305/Gait-Multi-Modal-Fusion"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### 🚑 SynthRescue
+### 🚁 SynthRescue
 
-AI-powered disaster analysis platform combining computer vision and AI reasoning.
+> AI disaster-response platform: **YOLO** detection over aerial imagery piped into Gemini for situational reasoning, served through a FastAPI backend and a Next.js operator dashboard.
 
-- YOLO Detection
-- Gemini AI
-- FastAPI
-- Next.js
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 
-<p>
-<a href="https://github.com/AdityaH1305/SynthRescue">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+<a href="https://github.com/AdityaH1305/SynthRescue"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-# 📈 GitHub Statistics
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaH1305&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaH1305&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=8B949E&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaH1305&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=8B949E&cache_seconds=86400" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaH1305&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/><br/>
 
-</p>
+<img src="https://streak-stats.demolab.com?user=AdityaH1305&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
 
-<p align="center">
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaH1305&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaH1305&bg_color=00000000&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true&custom_title=Contribution%20Activity" width="98%" />
 
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/AdityaH1305/AdityaH1305/output/github-contribution-grid-snake.svg"/>
-</p>
+</div>
 
 ---
 
-# 🏆 Highlights
+## 🐍 Contribution Graph
 
-🏅 Microsoft Azure Fundamentals (AZ-900)
-
-🤖 Machine Learning & Recommendation Systems
-
-📄 Documentation on Hybrid Recommendation Systems
-
-🚀 Built multiple full-stack web applications
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/AdityaH1305/AdityaH1305/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
-# 📫 Connect
+## 🏆 Highlights
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/aditya-harikrishnan/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://adityaharikrishnan.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/domain.png"/>
-</a>
-
-<a href="mailto:adityaharikrishnan@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
+<sub>Azure Fundamentals Certified</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Research-Hybrid%20RecSys-9333EA?style=for-the-badge" /><br/>
+<sub>Documentation on hybrid recommendation systems</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Shipped-Full--Stack%20Apps-00A98F?style=for-the-badge" /><br/>
+<sub>Multiple production-style web applications</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aditya-harikrishnan/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:adityaharikrishnan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/AdityaH1305"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+<a href="https://adityaharikrishnan.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" /></a>
+
+<br/><br/>
 
 <i>"Building software that is scalable, intelligent and impactful."</i>
 
-</p>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027" width="100%" />
