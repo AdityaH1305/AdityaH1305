@@ -1,7 +1,7 @@
 <!-- ======================= SAVE FILE BANNER ======================= -->
 <!-- Custom SVG lives in this repo at assets/save-file.svg -->
 
-<img src="./assets/save-file.svg" width="100%" alt="Save File 01 — Aditya Harikrishnan" />
+<img src="./assets/save-file-2.svg" width="100%" alt="Save File 01 — Aditya Harikrishnan" />
 
 <div align="center">
 
