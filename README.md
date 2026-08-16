@@ -10,7 +10,9 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/aditya-harikrishnan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://adityaharikrishnan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://adityaharikrishnan.vercel.app/">
+  <img src="https://img.shields.io/badge/A-000000?style=flat-square&label=Portfolio&labelColor=000000&color=000000" />
+</a>
 <a href="mailto:adityaharikrishnan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=AdityaH1305&style=flat-square&color=00f7ff&label=Profile+Visits" />
 
