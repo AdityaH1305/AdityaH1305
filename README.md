@@ -264,9 +264,17 @@ flowchart LR
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aditya-harikrishnan/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:adityaharikrishnan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://adityaharikrishnan.vercel.app/"><img src="./assets/favicon.ico" /></a>
+<a href="https://www.linkedin.com/in/aditya-harikrishnan/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="64" height="64" />
+</a>
+
+<a href="mailto:adityaharikrishnan@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="64" height="64" />
+</a>
+
+<a href="https://adityaharikrishnan.vercel.app/">
+  <img src="./assets/favicon.ico" width="64" height="64" />
+</a>
 
 </div>
 
