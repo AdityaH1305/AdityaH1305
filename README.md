@@ -248,7 +248,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AdityaH1305&theme=tokyonight&hide_border=true&border_radius=8" />
+<img src="https://streak-stats.demolab.com/?user=AdityaH1305&theme=tokyonight&hide_border=true&border_radius=8" />
 
 </div>
 
