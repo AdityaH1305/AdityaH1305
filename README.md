@@ -245,13 +245,9 @@ flowchart LR
 ---
 
 ## ⏱️ &nbsp;Playtime
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AdityaH1305&theme=tokyonight&hide_border=true&border_radius=8" />
-
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AdityaH1305&theme=tokyonight&hide_border=true&border_radius=8" />
 </div>
-
 ---
 
 ## 🐍 &nbsp;Speedrun Route
