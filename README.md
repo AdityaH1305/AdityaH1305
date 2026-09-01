@@ -213,29 +213,35 @@ flowchart LR
 
 <table width="100%">
 <tr>
-<td colspan="2" align="center">
+<td align="center">
 
-<img src="https://img.shields.io/badge/ISRO-Machine%20Learning%20Intern-FF6D00?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/ISRO-Machine%20Learning%20Intern-FF6D00?style=for-the-badge&logo=rocket&logoColor=white" width="340" /><br/><br/>
 
-**🥇 &nbsp;Launch Sequence** &nbsp;·&nbsp; <sub>LEGENDARY</sub>  
+**🥇 &nbsp;Launch Sequence** &nbsp;·&nbsp; <sub>LEGENDARY</sub>
+
 <sub>Applied machine learning research internship at the Indian Space Research Organisation</sub>
 
 </td>
 </tr>
+</table>
+
+<table width="100%">
 <tr>
 <td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/Microsoft-AZ--900%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-AZ--900%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" width="260" /><br/><br/>
 
-**☁️ &nbsp;Head in the Clouds** &nbsp;·&nbsp; <sub>RARE</sub>  
+**☁️ &nbsp;Head in the Clouds** &nbsp;·&nbsp; <sub>RARE</sub>
+
 <sub>Azure Fundamentals — cloud infrastructure &amp; core services</sub>
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/Research-Hybrid%20RecSys-9333EA?style=for-the-badge&logo=readthedocs&logoColor=white" />
+<img src="https://img.shields.io/badge/Research-Hybrid%20RecSys-9333EA?style=for-the-badge&logo=readthedocs&logoColor=white" width="260" /><br/><br/>
 
-**📜 &nbsp;Wrote the Manual** &nbsp;·&nbsp; <sub>RARE</sub>  
+**📜 &nbsp;Wrote the Manual** &nbsp;·&nbsp; <sub>RARE</sub>
+
 <sub>Technical documentation on hybrid recommendation systems</sub>
 
 </td>
