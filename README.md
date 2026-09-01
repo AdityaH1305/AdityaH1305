@@ -211,42 +211,39 @@ flowchart LR
 
 ## 🏆 &nbsp;Achievements Unlocked
 
-<table width="100%">
-<tr>
-<td align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/ISRO-Machine%20Learning%20Intern-FF6D00?style=for-the-badge&logo=rocket&logoColor=white" width="340" /><br/><br/>
+<img src="https://img.shields.io/badge/ISRO-Machine%20Learning%20Intern-FF6D00?style=for-the-badge&logo=rocket&logoColor=white" /><br/><br/>
 
-**🥇 &nbsp;Launch Sequence** &nbsp;·&nbsp; <sub>LEGENDARY</sub>
-
+**🥇 &nbsp;Launch Sequence** &nbsp;·&nbsp; <sub>LEGENDARY</sub><br/>
 <sub>Applied machine learning research internship at the Indian Space Research Organisation</sub>
 
-</td>
-</tr>
-</table>
+<br/><br/>
 
-<table width="100%">
+<img src="https://img.shields.io/badge/Microsoft-AZ--900%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Research-Hybrid%20RecSys-9333EA?style=for-the-badge&logo=readthedocs&logoColor=white" />
+
+<br/><br/>
+
+<table>
 <tr>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/Microsoft-AZ--900%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" width="260" /><br/><br/>
-
-**☁️ &nbsp;Head in the Clouds** &nbsp;·&nbsp; <sub>RARE</sub>
-
+**☁️ &nbsp;Head in the Clouds** &nbsp;·&nbsp; <sub>RARE</sub><br/>
 <sub>Azure Fundamentals — cloud infrastructure &amp; core services</sub>
 
 </td>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/Research-Hybrid%20RecSys-9333EA?style=for-the-badge&logo=readthedocs&logoColor=white" width="260" /><br/><br/>
-
-**📜 &nbsp;Wrote the Manual** &nbsp;·&nbsp; <sub>RARE</sub>
-
+**📜 &nbsp;Wrote the Manual** &nbsp;·&nbsp; <sub>RARE</sub><br/>
 <sub>Technical documentation on hybrid recommendation systems</sub>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
